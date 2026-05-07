@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project simulates an enterprise-grade liquidity risk monitoring system used by global banking institutions to track treasury liquidity, funding exposure, operational settlement performance, and regulatory liquidity compliance.
+This project simulates an enterprise-grade liquidity risk monitoring system used by global banking institutions to track treasury liquidity, funding exposure, operational settlement performance, and regulatory liquidity compliance. This project was developed by assuming Bank Of America as the client and researching some of its business activites.
 
 The solution combines:
 
