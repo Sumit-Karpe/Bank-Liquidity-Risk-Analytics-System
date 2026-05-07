@@ -270,7 +270,6 @@ Aspiring Data Analyst / BI Engineer focused on:
 * Business Intelligence
 * Financial Analytics
 
-LinkedIn: Add your LinkedIn here
-Tableau Public: Add dashboard link here
+LinkedIn: https://www.linkedin.com/in/sumit-karpe-252978336/
 
 ---
