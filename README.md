@@ -189,13 +189,13 @@ Detailed workflow explanation available here:
 
 ## Regulatory Liquidity Overview
 
-![Liquidity Overview](assets/dashboard-previews/liquidity-overview.png)
+![Liquidity Overview](https://github.com/Sumit-Karpe/Bank-Liquidity-Risk-Analytics-System/blob/main/images/Dashboard%201.png)
 
 ---
 
 ## FX Funding & Exposure Risk
 
-![FX Risk](assets/dashboard-previews/fx-risk-analysis.png)
+![FX Risk](https://github.com/Sumit-Karpe/Bank-Liquidity-Risk-Analytics-System/blob/main/images/Dashboard%203.png)
 
 ---
 
