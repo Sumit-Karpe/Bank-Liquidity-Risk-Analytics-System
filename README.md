@@ -1,6 +1,6 @@
 # Bank Liquidity Risk Analytics System
 
-![Banner](assets/logos/project-banner.png)
+![Banner](https://github.com/Sumit-Karpe/Bank-Liquidity-Risk-Analytics-System/blob/main/images/Bank_of_America_logo.svg.png)
 
 ## Overview
 
